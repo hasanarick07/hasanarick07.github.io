@@ -1,44 +1,29 @@
 [
   {
-    "name": "For Class IX-X",
-    "picture": "https://us.123rf.com/450wm/akarakingdoms/akarakingdoms1606/akarakingdoms160600015/60546025-school-boy-write-physics-symbol-object-icon-in-school-blackboard-file-simple-gradients.jpg?ver=6",
-    "price": 4000,
+    "name": "Sandpaper",
+    "picture": "https://lh3.googleusercontent.com/Mb-yc3RDzifg70PRY-PlQrlhn1BPJkNuM8pK_x3NCsPixpFG_XyrcA_otjtp5pMKdjTz5h2XUQpQcWvEYCa5EzNrxgwUogTxizTvX3nO1hv4M9he9kJXVkiG-9RhptZpk00IO8_MDEg7H9CYS4DXvZG9heOjv1uDGNLBdkuBYXAO0VHFsdzQha-NZy7sSVVqKRpeKAFSBtwVP7_-KY_l9Cf9cEsaWkZFeJ5Rc0T1PxqiNHjpReo08JHQIM0WSovGbsgyjPgxRVP2gb4UbPii0d6PNlF4QMaql5Rr5KZTskoYX46zzqBySz9eVdaGbtGSy50krwKJW-Bq7LHCdZv0FG7x2CaeP2xf6YLcmdRm9VkK_70Aon_NhRBXoAiJ5XhU-Z_D9cSjwf04CDMJW2ur2p76dcC8jYLr93arvEKQF4fyIjN_Umt8vgGYGAYxKUCmgkMkV_8EMlDTA5vqYOfarIaPk-MAXqK6gYZ-NiXwHxPHaPAowFiG7xQJ1tV9z5eY_mvV0epgozftYdYBrCd_nYJ8MKyDogKRKv6BUdfigdirsBrJG98R4jDCi4VcEE-dNxbd5OmnJz8EzMjkiWAQzyCGv99B0Nd-HTqUzQRqrn4eM-NGKGoi1IqI3457q2WFspWRzgTN2lCIUxrAM5Mk524vrR1lTgBG8GutDqGz4bOWmep-LECCsazaesdhr_yaa4Jgr6kHfQ2IkM7mYCpv43fVmFvvMU7j3vz8B9R2Qe6f2P3hnd21wYHQAxhG=w2294-h1056-no?authuser=0",
+    "live": "https://attar-fb8a1.web.app/",
+    "gitHubClient": "https://github.com/hasanarick07/manufacturer-website-client-side",
+    "gitHubServer": "https://github.com/hasanarick07/manufacturer-website-server-side",
     "id": 1,
-    "text": "Tuition and guidance through all required physics knowledge for class IX-X. I will provide 1 hour , 3 days in a week. Time can be discussed after meeting. "
+    "text": "Full stack website with react and node.js"
   },
   {
-    "name": "For Class XI-XII",
-    "picture": "https://media.istockphoto.com/photos/three-kids-are-doing-experiments-about-physics-picture-id982645282",
-    "price": 5000,
+    "name": "Biker",
+    "picture": "https://lh3.googleusercontent.com/6-nnAwmhLnUflW-xk9e3G9TvNlE1vsb04sl1Fb-suIhoMSqWhU0kc2wg5qKjkd0MmYDffb1ohctdcoaVhE2E9aYZD0sLiaRC81AFHTqoE0jNkoxO83yXc4j4Phsr6Q0f3ux6aNdmSm6-eTum3VEZ-oTH9Yx2ESAzKC2ONFMbsZg0zsOyR68W_0CmbEHB-yKR6XQ5EwpZIOXfYssPyLpJtHM2szFjeilrPBDAj0EgHSk7RP19qIzl7vL5ui-GqBlFSctuTtg0ExjcQ_tGWaU0bKdRhSeGAIENBjxJcvlnut2KuBpDXEVTlQC9SyByGU8_dbIaRxrSWlGwqm6Xv_uM9CFwcqI_DfVe-bpvpwEMBDw7Gcj7HGf2qvsbT5aMRcFyWCHKyFaj0EWvzgTZq9lHKoxqHYah9bme78SDHUXKInOWkHSGFvUEvuqnTwG9O_PT8sx5x2h2Jki91Ikl_WhXPZLGQRHnyAyIa4uFV7efH2VxJzmzlC1cZgpfTQigxj4kQPnWmTETZ4CMnTN-OTEwJbSZincwZAZWmbYEBPLi4kK7Yv-XKZTfnmYMgUbAdrYCIYTfg3Lc3dlhfL8gO8aW8whWWiH1mQt-7oM4bq28jrg2-nM0zMbWoK79vJwl9IeTek3bLAA0zaSpTzHgkd94kfHndfmn9gSZ19nbNXgffVmPl7o2zCHffwC2MEV1UILKOUKyw2qN3MFx0I2A0EVxOCPNcbivFTDoC41hzskY59sEXs-AoZub9rbJqsGB=w2372-h1130-no?authuser=0",
+    "live": "https://inventory-management-ffbc0.web.app/",
+    "gitHubClient": "https://github.com/hasanarick07/inventory-management-website-assignment-clients",
+    "gitHubServer": "https://github.com/hasanarick07/inventory-management-assignment-server",
     "id": 2,
-    "text": "Tuition and guidance through all required physics knowledge for class XI-XII. I will provide 1 hour , 3 days in a week. Time can be discussed after meeting."
+    "text": "Full stack website with react and node.js"
   },
   {
-    "name": "Special Care For SSC Candidate",
-    "picture": "https://us.123rf.com/450wm/dualororua/dualororua1905/dualororua190500004/121758353-male-and-female-chemist-holding-liquid-in-test-tube.jpg?ver=6",
-    "price": 5000,
+    "name": "Physics Teacher",
+    "picture": "https://lh3.googleusercontent.com/SkI6YMMD7I-l8jLSIW-k6ORJjQ5syF5Ic50GDMeM3bvIm9Mgd3xaf92D8-7fgS7HyR_l-TjSVdon0j12iB-OzDqu8GsPFxc6p6x2nLSXiLwdNrqZNyBYKrPUbTBq8m6KUpf-7pbMzzmY4pJJrm2fTjuTTjOqKBnfn8C3qM_FxG1Gmyf56bD6AczNQiGaPnMQsPueZFPco1TlOEDpytxvf447l5FaqdFNNqh6geAUaUymDuowflR5788vbvuZmJsJUufagjelyLiPNYQsZDA0DKoSLIrkMyrFdygaQNAeoVpKrQJ0txzhjztiD4_M4nl4ajzV4QFrlbnMrI8_CHJo3eMLqnM3wemTUIk_C5SGAlnrIki72IhOyl7004VUftw8-DNozW26A0tXwDCzFZP7cD2xwdYiXl8YxHuiSxkrLxmWaJM1o0b43mC0XC0tkqy5ozgSajAHvfZoLLsfaNaooOerfbeC9Lp-Ll7Oj8AR6uEe7iSXl6_as7iirKd9izQHZv2K4c_YdM0qnwZAELLiU3cRCAfGtzVwHrtXLGENOi9SRY1n_odjCk-0JTV1WLEJpPXWYf-n8lJJDcHhIwPIFkk8OnY9JAm0MJZ4ty0d_alW-UyJDc2IoGoKH4mTsxbkOHfJqUi98hW-NyWFtdDHqRi6d1Nb8fIPWAcGZuf7KEob4ct8U-2YKPyxfr7-64VdDehfZGq6NYGv9yhBp9Ss8C0psRyUGW58KtBA5yXNVCa971KMIvqJydddoTsW=w2463-h1443-no?authuser=0",
+    "live": "https://physics-teacher-e7cf0.web.app/",
+    "gitHubClient": "https://github.com/hasanarick07/physics-teacher",
+    "gitHubServer": "",
     "id": 3,
-    "text": "Tuition and guidance through all required physics knowledge for SSC Candidate. You will get my hand written notes and very short suggestions for final exam. Before 3 months of final exam I will take short time exam every study day. I will provide 1 hour , 3 days in a week. Time can be discussed after meeting."
-  },
-  {
-    "name": "Special Care For HSC Candidate",
-    "picture": "https://media.gettyimages.com/photos/three-kids-are-doing-experiments-about-physics-picture-id982638912?s=612x612",
-    "price": 6000,
-    "id": 4,
-    "text": "Tuition and guidance through all required physics knowledge for HSC Candidate. You will get my hand written notes and very short suggestions for final exam. Before 3 months of final exam I will take short time exam every study day. I will provide 1 hour , 3 days in a week. Time can be discussed after meeting."
-  },
-  {
-    "name": "SSC Batch",
-    "picture": "https://www.furman.edu/academics/physics/wp-content/uploads/sites/103/2019/10/physics-1.jpg",
-    "price": 500,
-    "id": 5,
-    "text": "Tuition and guidance through all required physics knowledge for SSC Batch. I will provide 1 hour , 3 days in a week. Time can be discussed after meeting. There will be 10 students in every batch."
-  },
-  {
-    "name": "HSC Batch",
-    "picture": "https://cdn.w600.comps.canstockphoto.com/kids-science-physics-experiment-clipart-vector_csp49884955.jpg",
-    "price": 700,
-    "id": 6,
-    "text": "Tuition and guidance through all required physics knowledge for HSC Batch. I will provide 1 hour , 3 days in a week. Time can be discussed after meeting. There will be 10 students in every batch."
+    "text": "Front end website with react"
   }
 ]
